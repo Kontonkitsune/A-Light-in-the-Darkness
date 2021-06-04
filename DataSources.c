@@ -1,19 +1,22 @@
 
 /* 
-0: spirit
-1: maxspirit
-2: energy
-3: maxenergy
-4 strength
-5 magic
-6 res power
-7 integrity
-8 resistance
-9 speed
-10 accuracy
-11 evasion
-12 crit chance
-13 crit damage
+0: stamina
+1: maxstamina
+2: spirit
+3: maxspirit
+4: energy
+5: maxenergy
+6 strength
+7 magic
+8 res power
+9 integrity
+10 resistance
+11 speed
+12 accuracy
+13 evasion
+14 crit chance
+15 crit damage
+16: Initiative
 */
 
 
